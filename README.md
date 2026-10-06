@@ -1,16 +1,14 @@
-# Capacita a tus empleados con Microsoft 365 Copilot: Casos de uso
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
 
-## Mercadeo y Comunicaciones
 
-**Custom MS-4004.4 + MS-4004.8 BC LD MSV (Priv)**  
-**Duración:** 2 h  
-**Distribución:** 15% teoría, 85% práctica
+# Capacita a tus empleados con Microsoft 365 Copilot: Casos de uso Mercadeo y comunicaciones
+
 
 ---
 
 ## Plataforma de laboratorios
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **Capacita a tus empleados con Microsoft 365 Copilot: Casos de uso — Mercadeo y Comunicaciones**.
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Capacita a tus empleados con Microsoft 365 Copilot: Casos de uso Mercadeo y comunicaciones**.
 
 Este curso proporciona a profesionales de Mercadeo y Comunicaciones una experiencia práctica para utilizar Microsoft 365 Copilot como apoyo en la creación de comunicaciones periódicas, investigación de audiencias, desarrollo de contenidos y seguimiento de resultados. El hilo conductor será un boletín semanal que debe actualizarse de forma consistente a partir de información reciente.
 
@@ -37,7 +35,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 - **Descripción:** Usarán la edición validada del boletín como fuente común para evitar recrear el contexto en cada aplicación. En Word desarrollarán una versión ampliada del contenido o un brief editorial, manteniendo audiencia, tono, mensajes clave y evidencia. En PowerPoint convertirán los mismos hallazgos en una síntesis visual para responsables de campaña, comunicaciones o liderazgo. Validarán que las piezas mantengan coherencia entre sí y que las adaptaciones por formato no cambien el significado del mensaje.
 - ⏱️ **Duración estimada:** 20 min
 
-### [Práctica 3.2. Planificar seguimiento y distribución con Copilot en Excel y Outlook](Capitulo03/README.md)
+### [Práctica 3.2. Planificar seguimiento y distribución con Copilot en Excel y Outlook](Capitulo03/README1.md)
 
 - **Descripción:** En Excel estructurarán un plan editorial con pieza, audiencia, canal, responsable, fecha, estado, KPI y objetivo de cada comunicación. Utilizarán Copilot para detectar vacíos de cobertura, mensajes duplicados, concentraciones de publicaciones y oportunidades de ajuste en el plan. En Outlook prepararán una comunicación basada en la versión aprobada, adaptando el mensaje al destinatario sin perder los elementos esenciales definidos en el prompt reutilizable.
 - ⏱️ **Duración estimada:** 20 min
@@ -49,20 +47,6 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ---
 
-## Resumen de duración
-
-| Actividad | Duración |
-| --- | ---: |
-| Práctica guiada: Construir la sesión reutilizable para un boletín semanal | 17 min |
-| Práctica aplicada: Actualizar la edición semanal reutilizando contexto | 20 min |
-| Práctica 3.1. Convertir el contenido en piezas con Copilot en Word y PowerPoint | 20 min |
-| Práctica 3.2. Planificar seguimiento y distribución con Copilot en Excel y Outlook | 20 min |
-| Práctica integradora: Preparar una nueva edición con evidencia y aprendizaje del ciclo anterior | 25 min |
-| **Total de práctica** | **102 min** |
-| **Contenido teórico** | **18 min** |
-| **Duración total del curso** | **120 min / 2 h** |
-
----
 
 ## 📬 Contacto y más información
 
