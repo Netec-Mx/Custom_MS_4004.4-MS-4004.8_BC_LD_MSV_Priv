@@ -3,7 +3,7 @@
 **Duración:** 17 min
 
 ## Descripción
-Crearán un prompt maestro que indique objetivo, audiencia, periodo que debe cubrirse, fuentes, tono, secciones del boletín y reglas para señalar información no confirmada[cite: 3]. Generarán una primera edición a partir de un conjunto inicial de fuentes y revisarán si la respuesta conserva el formato, prioriza lo relevante y mantiene el estilo de comunicación[cite: 3]. Dejarán preparada la conversación y el prompt como base reutilizable para elaborar nuevas ediciones sin reconstruir el proceso desde cero[cite: 3].
+Crearán un prompt maestro que indique objetivo, audiencia, periodo que debe cubrirse, fuentes, tono, secciones del boletín y reglas para señalar información no confirmada. Generarán una primera edición a partir de un conjunto inicial de fuentes y revisarán si la respuesta conserva el formato, prioriza lo relevante y mantiene el estilo de comunicación. Dejarán preparada la conversación y el prompt como base reutilizable para elaborar nuevas ediciones sin reconstruir el proceso desde cero.
 
 ## Pasos para ejecutar la práctica
 
