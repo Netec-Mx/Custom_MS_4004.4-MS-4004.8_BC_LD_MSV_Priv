@@ -3,9 +3,9 @@
 **Duración:** 40 min
 
 ## Descripción
-Práctica 3.1: Usarán la edición validada del boletín como fuente común para evitar recrear el contexto en cada aplicación[cite: 3]. En Word desarrollarán una versión ampliada del contenido o un brief editorial, manteniendo audiencia, tono, mensajes clave y evidencia[cite: 3]. En PowerPoint convertirán los mismos hallazgos en una síntesis visual para responsables de campaña, comunicaciones o liderazgo[cite: 3]. Validarán que las piezas mantengan coherencia entre sí y que las adaptaciones por formato no cambien el significado del mensaje[cite: 3].
+Práctica 3.1: Usarán la edición validada del boletín como fuente común para evitar recrear el contexto en cada aplicación. En Word desarrollarán una versión ampliada del contenido o un brief editorial, manteniendo audiencia, tono, mensajes clave y evidencia. En PowerPoint convertirán los mismos hallazgos en una síntesis visual para responsables de campaña, comunicaciones o liderazgo. Validarán que las piezas mantengan coherencia entre sí y que las adaptaciones por formato no cambien el significado del mensaje.
 
-Práctica 3.2: En Excel estructurarán un plan editorial con pieza, audiencia, canal, responsable, fecha, estado, KPI y objetivo de cada comunicación[cite: 3]. Utilizarán Copilot para detectar vacíos de cobertura, mensajes duplicados, concentraciones de publicaciones y oportunidades de ajuste en el plan[cite: 3]. En Outlook prepararán una comunicación basada en la versión aprobada, adaptando el mensaje al destinatario sin perder los elementos esenciales definidos en el prompt reutilizable[cite: 3].
+Práctica 3.2: En Excel estructurarán un plan editorial con pieza, audiencia, canal, responsable, fecha, estado, KPI y objetivo de cada comunicación. Utilizarán Copilot para detectar vacíos de cobertura, mensajes duplicados, concentraciones de publicaciones y oportunidades de ajuste en el plan. En Outlook prepararán una comunicación basada en la versión aprobada, adaptando el mensaje al destinatario sin perder los elementos esenciales definidos en el prompt reutilizable.
 
 ## Pasos para ejecutar la práctica
 
