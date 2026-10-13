@@ -3,7 +3,7 @@
 **Duración:** 20 min
 
 ## Descripción
-Partirán de la edición anterior e incorporarán nuevas fuentes de la semana, evitando la recopilación manual de notas cuando la información ya esté disponible en Microsoft 365[cite: 3]. Reutilizarán la misma sesión de chat para solicitar una nueva versión del boletín con los acontecimientos recientes y las mismas reglas editoriales[cite: 3]. Organizarán en Copilot Notebooks las referencias disponibles que deban mantenerse como contexto estable para futuras ediciones[cite: 3]. Solicitarán a Copilot diferenciar información nueva, cambios respecto de la edición anterior, datos potencialmente obsoletos, contradicciones y elementos que requieren validación[cite: 3]. Revisarán la trazabilidad de las afirmaciones principales antes de aceptar el contenido generado[cite: 3].
+Partirán de la edición anterior e incorporarán nuevas fuentes de la semana, evitando la recopilación manual de notas cuando la información ya esté disponible en Microsoft 365. Reutilizarán la misma sesión de chat para solicitar una nueva versión del boletín con los acontecimientos recientes y las mismas reglas editoriales. Organizarán en Copilot Notebooks las referencias disponibles que deban mantenerse como contexto estable para futuras ediciones. Solicitarán a Copilot diferenciar información nueva, cambios respecto de la edición anterior, datos potencialmente obsoletos, contradicciones y elementos que requieren validación. Revisarán la trazabilidad de las afirmaciones principales antes de aceptar el contenido generado.
 
 ## Pasos para ejecutar la práctica
 
