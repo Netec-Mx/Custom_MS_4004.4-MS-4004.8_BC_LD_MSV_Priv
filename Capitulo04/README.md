@@ -3,7 +3,7 @@
 **Duración:** 25 min
 
 ## Descripción
-Con Investigador contrastarán tendencias, referencias externas o hechos que requieran respaldo adicional antes de incorporarlos al mensaje[cite: 3]. Con Analista revisarán datos disponibles de campañas o comunicaciones para identificar patrones de respuesta, segmentos y oportunidades de mejora[cite: 3]. Regresarán al chat reutilizable o al contexto organizado en Copilot Notebooks para actualizar el boletín con la evidencia y los resultados más recientes[cite: 3]. Aplicarán una revisión final de actualidad, consistencia, trazabilidad, tono, audiencia y diferenciación entre hechos, interpretaciones y elementos pendientes de validación[cite: 3]. Cerrarán la actividad dejando preparada la estructura que se reutilizaría en la siguiente semana y definiendo qué fuentes deben actualizarse en el siguiente ciclo[cite: 3].
+Con Investigador contrastarán tendencias, referencias externas o hechos que requieran respaldo adicional antes de incorporarlos al mensaje. Con Analista revisarán datos disponibles de campañas o comunicaciones para identificar patrones de respuesta, segmentos y oportunidades de mejora. Regresarán al chat reutilizable o al contexto organizado en Copilot Notebooks para actualizar el boletín con la evidencia y los resultados más recientes. Aplicarán una revisión final de actualidad, consistencia, trazabilidad, tono, audiencia y diferenciación entre hechos, interpretaciones y elementos pendientes de validación. Cerrarán la actividad dejando preparada la estructura que se reutilizaría en la siguiente semana y definiendo qué fuentes deben actualizarse en el siguiente ciclo.
 
 ## Pasos para ejecutar la práctica
 
